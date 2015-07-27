@@ -10,3 +10,4 @@ insecure
 iron:router
 sanjo:karma-jasmine
 coffeescript
+velocity:html-reporter
