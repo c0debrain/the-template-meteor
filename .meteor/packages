@@ -11,3 +11,6 @@ iron:router
 coffeescript
 velocity:html-reporter
 sanjo:jasmine
+velocity:console-reporter
+xolvio:cucumber
+velocity:helpers
