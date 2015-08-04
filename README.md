@@ -58,11 +58,13 @@ iron help
 Startup
 ===
 
-    meteor
-
-or
+from root
 
     iron run
+    
+or within the ``/app/`` folder
+    
+    meteor
 
 Scaffolding
 ===
