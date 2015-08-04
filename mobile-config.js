@@ -13,8 +13,8 @@ App.info({
 // Set up resources such as icons and launch screens.
 App.icons({
     // iOS
-    'iphone': 'resources/icons/icon-60x60.png',
-    'iphone_2x': 'resources/icons/icon-60x60@2x.png',
+    'iphone': 'resources/icons/apple-touch-Icon-60x60.png',
+    'iphone_2x': 'resources/icons/apple-touch-Icon-120x120.png',
     // 'ipad': 'resources/icons/icon-72x72.png',
     // 'ipad_2x': 'resources/icons/icon-72x72@2x.png',
 
