@@ -3,3 +3,6 @@
 #   @ready()
 #   return
 #
+
+Meteor.publish 'category', ->
+  Category.find()
