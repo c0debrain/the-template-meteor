@@ -14,3 +14,4 @@ sanjo:jasmine
 velocity:console-reporter
 xolvio:cucumber
 velocity:helpers
+aldeed:simple-schema
