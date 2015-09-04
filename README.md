@@ -236,6 +236,8 @@ Validation and Schema
 SimpleSchema
 ===
 
+__The Schema Namespace is already defined in ``defineSchemaNamespace.coffee``.__
+
 A simple, reactive schema validation package for Meteor. It's used by the Collection2 and AutoForm packages, but you can use it by itself, too.
 
 Please visit the documentation for detailed usage instructions:
