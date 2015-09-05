@@ -10,4 +10,8 @@ Schema.Category = new SimpleSchema(
     optional: true
 )
 
+# attach Category schema to the Category collection
 Category.attachSchema(Schema.Category)
+
+# frieldlyId field
+Category.friendlySlugs('name')

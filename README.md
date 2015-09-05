@@ -575,3 +575,7 @@ tap-i18n-ui also provides some other handlebars helpers:
 
 You can define a ``TAPi18n._afterUILanguageChange`` function within your project to be called each time the language is changed using a tap-i18n-ui template.
 
+
+# Friendly Id
+
+``todda00:friendly-slugs`` [https://github.com/todda00/meteor-friendly-slugs/](https://github.com/todda00/meteor-friendly-slugs/)
